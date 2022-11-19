@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m Wagner Cruz;
 
-- I currently work with 💻 Frontend, 📖 I'm studying Java and English.
+- 💻 currently work with Frontend
+- 📖 I'm studying Java and English
 
 ##
 
